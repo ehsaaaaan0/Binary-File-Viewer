@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/font_roboto.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/font/roboto.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/font_times.ttf.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/font/times.ttf"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_custom_alert_dialogue.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/custom_alert_dialogue.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_appicon.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/appicon.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/font_roboto_bold.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/font/roboto_bold.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_moreapps.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/moreapps.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/xml_network_security_config.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_file.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/file.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/font_roboto_medium.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/font/roboto_medium.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/menu_item_menu.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/menu/item_menu.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_file_item.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/file_item.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_cross.png.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/cross.png"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_pdfconvert.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/pdfconvert.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_pp.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/pp.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_singlefile.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/singlefile.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/xml_filepaths.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/xml/filepaths.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_button_bg.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_ic_star_24.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/ic_star_24.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_main_nav_header.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/main_nav_header.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_back_arrow.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/back_arrow.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_binview.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/binview.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_icon_feedback.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/icon_feedback.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_card_view_center_line.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/card_view_center_line.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_exit_backpress.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/exit_backpress.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_activity_p_p.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_p_p.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_stars.png.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/stars.png"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_nofile.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/nofile.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_recentfile.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/recentfile.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_spinners.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/spinners.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_activity_splash_screen.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_activity_list_file.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_list_file.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_delete_icon.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/delete_icon.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_share.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/share.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_baseline_more_vert_24.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_main_layout.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/main_layout.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_activity_binfileviewer.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_binfileviewer.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_file_conversion_dialogue.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/file_conversion_dialogue.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_main_activity_image.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/main_activity_image.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_itemlistlayout.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/itemlistlayout.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_exit_dialog_top.webp.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/exit_dialog_top.webp"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/layout_layout_main_content.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/layout_main_content.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/menu_activity_main_drawer.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-debug-34:/drawable_share_icon.xml.flat",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/drawable/share_icon.xml"
+    }
+]

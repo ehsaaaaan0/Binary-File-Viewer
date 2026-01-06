@@ -1,0 +1,166 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.binfile.opener.viewer.reader.pdf.converter"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:5:5-81
+11-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+12-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:6:5-82
+12-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:6:22-79
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:7:5-80
+13-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:8:5-67
+14-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:8:22-64
+15
+16    <permission
+16-->[androidx.core:core:1.10.1] C:\Users\ehsan\.gradle\caches\transforms-3\c8c8f13341b4ebe34f9bf7f02bb43ced\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+17        android:name="com.binfile.opener.viewer.reader.pdf.converter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.10.1] C:\Users\ehsan\.gradle\caches\transforms-3\c8c8f13341b4ebe34f9bf7f02bb43ced\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.10.1] C:\Users\ehsan\.gradle\caches\transforms-3\c8c8f13341b4ebe34f9bf7f02bb43ced\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.binfile.opener.viewer.reader.pdf.converter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.10.1] C:\Users\ehsan\.gradle\caches\transforms-3\c8c8f13341b4ebe34f9bf7f02bb43ced\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.10.1] C:\Users\ehsan\.gradle\caches\transforms-3\c8c8f13341b4ebe34f9bf7f02bb43ced\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:10:5-58:19
+23        android:allowBackup="false"
+23-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:11:9-36
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.10.1] C:\Users\ehsan\.gradle\caches\transforms-3\c8c8f13341b4ebe34f9bf7f02bb43ced\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:21:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:icon="@mipmap/ic_launcher"
+28-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:12:9-43
+29        android:label="@string/bin_view"
+29-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:13:9-41
+30        android:largeHeap="true"
+30-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:14:9-33
+31        android:networkSecurityConfig="@xml/network_security_config"
+31-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:16:9-69
+32        android:requestLegacyExternalStorage="true"
+32-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:17:9-52
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:18:9-54
+34        android:supportsRtl="true"
+34-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:19:9-35
+35        android:theme="@style/Theme.Binview"
+35-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:20:9-45
+36        android:usesCleartextTraffic="true" >
+36-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:15:9-44
+37        <activity
+37-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:22:9-24:40
+38            android:name="com.binfile.opener.viewer.reader.pdf.converter.activities.SplashScreen"
+38-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:23:13-52
+39            android:exported="false" />
+39-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:24:13-37
+40        <activity
+40-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:25:9-27:40
+41            android:name="com.binfile.opener.viewer.reader.pdf.converter.activities.ListFile"
+41-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:26:13-48
+42            android:exported="false" />
+42-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:27:13-37
+43        <activity
+43-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:28:9-36:20
+44            android:name="com.binfile.opener.viewer.reader.pdf.converter.activities.PP"
+44-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:29:13-42
+45            android:exported="true" >
+45-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:30:13-36
+46            <intent-filter>
+46-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:31:13-35:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:32:17-69
+47-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:32:25-66
+48
+49                <category android:name="android.intent.category.DEFAULT" />
+49-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:33:17-76
+49-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:33:27-73
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:34:17-77
+50-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:34:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:37:9-39:40
+54            android:name="com.binfile.opener.viewer.reader.pdf.converter.activities.BinFileViewer"
+54-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:38:13-53
+55            android:exported="false" />
+55-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:39:13-37
+56        <activity
+56-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:40:9-42:40
+57            android:name="com.binfile.opener.viewer.reader.pdf.converter.activities.MainActivity"
+57-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:41:13-52
+58            android:exported="false" />
+58-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:42:13-37
+59
+60        <provider
+61            android:name="androidx.core.content.FileProvider"
+61-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:44:13-62
+62            android:authorities="com.binfile.opener.viewer.reader.pdf.converter.provider"
+62-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:45:13-60
+63            android:exported="false"
+63-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:46:13-37
+64            android:grantUriPermissions="true" >
+64-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:47:13-47
+65            <meta-data
+65-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:48:13-50:53
+66                android:name="android.support.FILE_PROVIDER_PATHS"
+66-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:49:17-67
+67                android:resource="@xml/filepaths" />
+67-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:50:17-50
+68        </provider>
+69
+70        <meta-data
+70-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:54:9-56:47
+71            android:name="preloaded_fonts"
+71-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:55:13-43
+72            android:resource="@array/fonts" />
+72-->D:\Kadija Android\BinViewver\app\src\main\AndroidManifest.xml:56:13-44
+73
+74        <service
+74-->[androidx.room:room-runtime:2.5.2] C:\Users\ehsan\.gradle\caches\transforms-3\964986c7ab4ca062e1ba208860e495e5\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+75            android:name="androidx.room.MultiInstanceInvalidationService"
+75-->[androidx.room:room-runtime:2.5.2] C:\Users\ehsan\.gradle\caches\transforms-3\964986c7ab4ca062e1ba208860e495e5\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+76            android:directBootAware="true"
+76-->[androidx.room:room-runtime:2.5.2] C:\Users\ehsan\.gradle\caches\transforms-3\964986c7ab4ca062e1ba208860e495e5\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+77            android:exported="false" />
+77-->[androidx.room:room-runtime:2.5.2] C:\Users\ehsan\.gradle\caches\transforms-3\964986c7ab4ca062e1ba208860e495e5\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ehsan\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ehsan\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+81            android:authorities="com.binfile.opener.viewer.reader.pdf.converter.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ehsan\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ehsan\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ehsan\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ehsan\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ehsan\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ehsan\.gradle\caches\transforms-3\805cfbbd3f7ff918dca02e959a4440ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ehsan\.gradle\caches\transforms-3\805cfbbd3f7ff918dca02e959a4440ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ehsan\.gradle\caches\transforms-3\805cfbbd3f7ff918dca02e959a4440ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+89        </provider>
+90    </application>
+91
+92</manifest>

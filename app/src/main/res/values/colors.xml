@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">@color/Primarydark</color>
+    <color name="purple_500">@color/Primarydark</color>
+    <color name="purple_700">@color/Primarydark</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="gry">#BCBCBC</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Primarydark">#12484C</color>
+    <color name="Primary">#3e6b6f</color>
+<!--    <color name="toolbal">#70434A6D</color>-->
+<!--    <color name="toolbal">#356c71</color>-->
+    <color name="newtext">#585858</color>
+    <dimen name="banner_height">50dp</dimen>
+<!--    <color name="bg">#F0F3FF</color>-->
+    <color name="toolbal">#295f6a</color>
+    <color name="bg">#3e6b6f</color>
+    <color name="rvbg">#DDE2FC</color>
+    <color name="black2">#21252D</color>
+    <color name="transparent">#0021252D</color>
+    <color name="sv">#D8D6D6</color>
+
+    <color name="button_type_layout">#12484C</color>
+    <color name="button_color">#3facaf</color>
+
+</resources>

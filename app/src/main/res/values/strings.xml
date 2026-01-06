@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Bin File Opener - Viewer Reader</string>
+    <string name="bin_view">Bin Viewer</string>
+    <string name="bin_to_pdf">Bin To Pdf</string>
+    <string name="more">view more</string>
+    <string name="recentfile">Recent Files</string>
+    <string name="convertedfiles">Converted Files</string>
+    <string name="yes">yes</string>
+    <string name="delete2">Delete</string>
+    <string name="no">No</string>
+    <string name="size">Size</string>
+    <string name="date">Date</string>
+    <string-array name="SelectCodeView">
+        <item>Hex</item>
+        <item>Binary</item>
+        <item>Decimal</item>
+        <item>Octal</item>
+    </string-array>
+
+    <string-array name="SelectCodeRows">
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+    </string-array>
+
+    <!--    Privacy Policies-->
+    <string name="privacy_policy_text">
+<b>Permissions:</b>
+\n\n1: " "Read External Storage Access.
+\n2: " "Write External Storage Access.
+\n3: " "Manage Storage Access.\n \n
+<b>Our Privacy Policy:</b>
+\n\n1: " "We do not Collect any Data.\n2: " "All permissions are only for user benefit\n\nPlease accept to proceed further.\nThanks For Installing this Application.
+</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename:</string>
+    <string name="convert">Conversion</string>
+    <string name="entername">Add file name</string>
+    <string name="format">Convert into:</string>
+
+
+    <string name="navigation_header">Navigation Header</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Drawer Close</string>
+
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="feedback">Feedback</string>
+    <string name="more_apps">More Apps</string>
+    <string name="feed_back">Feedback:</string>
+</resources>

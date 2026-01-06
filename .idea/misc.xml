@@ -1,0 +1,73 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/I-My-Me/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/activity_bincodeview.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/I-My-Me/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/activity_file_list.xml" value="0.196875" />
+        <entry key="..\:/Users/I-My-Me/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/I-My-Me/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/activity_privacy_policy.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/I-My-Me/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/I-My-Me/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/alert_dialogue.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/I-My-Me/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/backpress.xml" value="0.25" />
+        <entry key="..\:/Users/I-My-Me/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/conversion_dialogue.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/masif/OneDrive/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout-land/activity_bincodeview.xml" value="0.3015625" />
+        <entry key="..\:/Users/masif/OneDrive/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/activity_bincodeview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/masif/OneDrive/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/activity_file_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/masif/OneDrive/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/masif/OneDrive/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/masif/OneDrive/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/itemlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/masif/OneDrive/Documents/GitHub/SmartTech_Bin-File-Viewer/app/src/main/res/layout/smallitem.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/drawable/dailog_bg.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/drawable/five_stars.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/drawable/ic_arrow_back.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/drawable/ic_drop.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/drawable/ic_mainscreen.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/drawable/ic_pdfconvert.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/font/roboto.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/font/roboto_medium.xml" value="0.3861538461538462" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout-land/activity_bincodeview.xml" value="0.31981981981981983" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/activity_bincodeview.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/activity_file_list.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/activity_splash.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/backpress.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/backpressdialouge.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/content_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/itemlayout.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/smallitem.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/layout/spinner_item.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/app/src/main/res/xml/filepaths.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/ic_audio_icon.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/ic_document_icon.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/ic_folder.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/ic_folder2.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/ic_video_icon.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/unicorn_ic_arrow_right.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/unicorn_ic_arrow_solid_right.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/unicorn_ic_done.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/unicorn_ic_folder.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/unicorn_ic_images.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/drawable/unicorn_ic_search.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/drawable/unicorn_item_layout_divider.xml" value="0.2105" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/layout/unicorn_activity_file_picker.xml" value="0.3871319520174482" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/layout/unicorn_item_layout_directory.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/layout/unicorn_item_layout_directory_stack.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/layout/unicorn_item_layout_files.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Binview/filepicker/src/main/res/menu/unicorn_menu_file_picker.xml" value="0.3619791666666667" />
+        <entry key="..\:/githubcode/SmartTeach_Bin view/app/src/main/res/layout/activity_bincodeview.xml" value="0.36666666666666664" />
+        <entry key="..\:/githubcode/SmartTeach_Bin view/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/githubcode/SmartTeach_Bin view/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/githubcode/SmartTeach_Bin view/app/src/main/res/layout/alert_dialogue.xml" value="0.36666666666666664" />
+        <entry key="..\:/githubcode/SmartTeach_Bin view/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

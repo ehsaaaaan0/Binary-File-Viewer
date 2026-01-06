@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/spinners.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/spinners.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/activity_p_p.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_p_p.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/exit_backpress.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/exit_backpress.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/main_layout.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/main_layout.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/file_conversion_dialogue.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/file_conversion_dialogue.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/main_nav_header.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/main_nav_header.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/singlefile.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/singlefile.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/layout_main_content.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/layout_main_content.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/activity_binfileviewer.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_binfileviewer.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/activity_splash_screen.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/custom_alert_dialogue.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/custom_alert_dialogue.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/activity_list_file.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/activity_list_file.xml"
+    },
+    {
+        "merged": "com.binfile.opener.viewer.reader.pdf.converter.app-mergeDebugResources-33:/layout/itemlistlayout.xml",
+        "source": "com.binfile.opener.viewer.reader.pdf.converter.app-main-36:/layout/itemlistlayout.xml"
+    }
+]

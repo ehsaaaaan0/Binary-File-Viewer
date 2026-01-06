@@ -1,0 +1,3 @@
+com.binfile.opener.viewer.reader.pdf.converter.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
